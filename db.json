@@ -1,0 +1,70 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Bahubali",
+      "url": "https://i.pinimg.com/originals/12/c2/95/12c29550d87b8404171b9cbebde267d3.jpg",
+      "embedLink": "https://www.youtube.com/embed/tB1clq0VNWE"
+    },
+    {
+      "id": "2",
+      "caption": "Leo",
+      "url": "https://wallpapercave.com/wp/wp12173186.jpg",
+      "getEmbedLink": "",
+      "embedLink": "https://www.youtube.com/embed/ZdMZ40GSVmc"
+    },
+    {
+      "id": "3",
+      "caption": "KGF",
+      "url": "https://i.pinimg.com/originals/98/8b/58/988b58a7128087acc956be25af854f5f.jpg",
+      "embedLink": "https://www.youtube.com/embed/Ll23uAMG1gI"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "verthe",
+      "allVideos": [
+        [
+          {
+            "id": "1",
+            "caption": "Bahubali",
+            "url": "https://i.pinimg.com/originals/12/c2/95/12c29550d87b8404171b9cbebde267d3.jpg",
+            "embedLink": "https://www.youtube.com/embed/tB1clq0VNWE"
+          },
+          {
+            "id": "2",
+            "caption": "Leo",
+            "url": "https://wallpapercave.com/wp/wp12173186.jpg",
+            "getEmbedLink": "",
+            "embedLink": "https://www.youtube.com/embed/ZdMZ40GSVmc"
+          },
+          {
+            "id": "3",
+            "caption": "KGF",
+            "url": "https://i.pinimg.com/originals/98/8b/58/988b58a7128087acc956be25af854f5f.jpg",
+            "embedLink": "https://www.youtube.com/embed/Ll23uAMG1gI"
+          }
+        ]
+      ],
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "timeStamp": "02/06/2024, 02:09:16 PM",
+      "id": 2
+    },
+    {
+      "caption": "Leo",
+      "embedLink": "https://www.youtube.com/embed/ZdMZ40GSVmc",
+      "timeStamp": "02/06/2024, 02:17:30 PM",
+      "id": 3
+    },
+    {
+      "caption": "Leo",
+      "embedLink": "https://www.youtube.com/embed/ZdMZ40GSVmc",
+      "timeStamp": "02/06/2024, 02:18:03 PM",
+      "id": 4
+    }
+  ]
+}
